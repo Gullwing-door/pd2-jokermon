@@ -99,7 +99,7 @@
   "Jokermon_menu_flavour_32" : "농담을 많이 알고 있다.",
   "Jokermon_menu_flavour_33" : "세상을 보고 싶어한다.",
   "Jokermon_menu_flavour_34" : "일에 대한 충분한 보상을 받지 못한다.",
-  "Jokermon_menu_flavour_35" : "비밀 종교의 신자 중 일부다.",
+  "Jokermon_menu_flavour_35" : "비밀 종교의 일부 신자 중 하나이다.",
   "Jokermon_menu_flavour_36" : "삽에 집착한다.",
   "Jokermon_message_faint" : "$NAME 이(가) 기절했습니다!",
   "Jokermon_message_die" : "$NAME 이(가) 사망했습니다!",
