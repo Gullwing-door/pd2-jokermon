@@ -58,7 +58,7 @@
   "Jokermon_menu_catch_stats" : "$DATE 에 $OT 에 의해 잡힘\n$HEIST ($DIFFICULTY) 도중 레벨 $LEVEL 로 마주침",
   "Jokermon_menu_nickname" : "닉네임",
   "Jokermon_menu_order" : "우선 순위",
-  "Jokermon_menu_order_desc" : "\"정렬"\이 \"커스텀\"으로 설정되거나 그렇지 않은 경우 두 요소가 같을 때 사용되는 정렬 우선 순위",
+  "Jokermon_menu_order_desc" : "\"정렬\"이 \"커스텀\"으로 설정되거나 그렇지 않은 경우 두 요소가 같을 때 사용되는 정렬 우선 순위",
   "Jokermon_menu_action_heal" : "치료 ($COST)",
   "Jokermon_menu_action_revive" : "소생 ($COST)",
   "Jokermon_menu_action_release" : "놓아주기",
